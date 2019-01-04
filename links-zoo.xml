@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<extension version="2.5" type="plugin" group="jce" method="upgrade">
+    <name>plg_jce_links_zoo</name>
+    <version>1.0.0</version>
+    <creationDate>January 2019</creationDate>
+    <author>Ryan Demmer</author>
+    <authorEmail>info@joomlacontenteditor.net</authorEmail>
+    <authorUrl>https://www.joomlacontenteditor.net/</authorUrl>
+    <copyright>Copyright (c) 2009-2019 Ryan Demmer. All rights reserved</copyright>
+    <license>GNU/GPL 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</license>
+    <description>PLG_JCE_LINKS_ZOO_XML_DESC</description>
+    
+    <files folder="plugins/jce/links-zoo">
+		<file plugin="links-zoo">links-zoo.php</file>
+	</files>
+    
+	<languages folder="administrator/language/en-GB">
+    	<language tag="en-GB">en-GB.plg_jce_links-zoo.ini</language>
+		<language tag="en-GB">en-GB.plg_jce_links-zoo.sys.ini</language>
+    </languages>
+</extension>
