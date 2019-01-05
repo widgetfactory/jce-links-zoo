@@ -6,3 +6,8 @@ Click [here to download](https://github.com/widgetfactory/jce-links-zoo/archive/
 
 ## Installation
 Install using the Joomla Extensions Installer - https://docs.joomla.org/Installing_an_extension
+
+## Usage
+Yootheme ZOO will appear as an item in the Link dialog link tree.
+
+![Yootheme ZOO Links](https://cdn.joomlacontenteditor.net/tmp/yootheme-zoo-links.gif)
