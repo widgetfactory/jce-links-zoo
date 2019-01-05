@@ -6,5 +6,3 @@ Click [here to download](https://github.com/widgetfactory/jce-links-zoo/archive/
 
 ## Installation
 Install using the Joomla Extensions Installer - https://docs.joomla.org/Installing_an_extension
-
-After installation, the plugin can be configured in Editor Profiles -> Plugin Parameters -> Link
