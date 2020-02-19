@@ -11,10 +11,9 @@
     <description>PLG_JCE_LINKS_ZOO_XML_DESC</description>
     
     <files folder="plugins/jce/links-zoo">
-		<file plugin="links-zoo">links-zoo.php</file>
+	    <file plugin="links-zoo">links-zoo.php</file>
 	</files>
-    
-	<languages folder="administrator/language/en-GB">
+	<languages folder="language/en-GB">
     	<language tag="en-GB">en-GB.plg_jce_links-zoo.ini</language>
 		<language tag="en-GB">en-GB.plg_jce_links-zoo.sys.ini</language>
     </languages>
