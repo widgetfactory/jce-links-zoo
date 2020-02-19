@@ -14,8 +14,4 @@
         <file plugin="links-zoo">links-zoo.php</file>
         <folder>language</folder>
     </files>
-    <languages folder="language/en-GB">
-        <language tag="en-GB">en-GB.plg_jce_links-zoo.ini</language>
-        <language tag="en-GB">en-GB.plg_jce_links-zoo.sys.ini</language>
-    </languages>
 </extension>
