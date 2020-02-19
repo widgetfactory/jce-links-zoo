@@ -12,6 +12,7 @@
 
     <files folder="plugins/jce/links-zoo">
         <file plugin="links-zoo">links-zoo.php</file>
+        <folder>language</folder>
     </files>
     <languages folder="plugins/jce/links-zoo/language/en-GB">
         <language tag="en-GB">en-GB.plg_jce_links-zoo.ini</language>
